@@ -97,3 +97,7 @@ while(menu != "S"):
     else:
         print("\nOpção inválida, tente novamente!")
         menu = (input("\n[A] Adicionar novo registro\n[M] Mostrar registros\n[S] Sair\nInforme a opção desejada: "))
+        
+        #teste
+        
+        soma = 1+1
